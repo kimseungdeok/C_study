@@ -10,7 +10,7 @@ int main(void)
     printf("&x = %d\n", &x);
     printf("*y = %d\n", *y);
 
-    printf("*x = %d\n", *x);
+    // printf("*x = %d\n", *x); 
     printf("y = %d\n", &y);
 
 
